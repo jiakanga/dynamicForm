@@ -1,0 +1,28 @@
+{
+  "container": {
+    "type": "form",
+    "config": {
+      "labelPosition": "right",
+      "labelWidth": "80px"
+    },
+    "content": [
+                 {
+                   "type": "input",
+                   "key": "name",
+                   "value": "default value",
+                   "label": "姓名",
+                   "placeholder": "请输入姓名",
+                   "displayfield": "name",
+
+                 },
+                 {
+                   "type": "input",
+                   "key": "name",
+                   "value": "default value",
+                   "label": "密码",
+                   "placeholder": "请输入密码",
+                   "displayfield": "name"
+                 }
+               ]
+  }
+}
